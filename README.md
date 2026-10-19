@@ -64,5 +64,5 @@
 ---
 
 ### 🌟 Featured Projects
-* 🌾 **Agro-Smart Portal:** A machine learning crop recommendation system built using Python, Flask, and scikit-learn to provide data-driven agricultural guidance[cite: 4].
+* 🌾 **Agro-Smart Portal:** A machine learning crop recommendation system built using Python, Flask, and scikit-learn to provide data-driven agricultural guidance.
 * 🤖 **Career Guide AI:** An upcoming AI-powered career counseling and guidance platform designed to assist students and professionals in mapping their career paths *(In Progress)*.
