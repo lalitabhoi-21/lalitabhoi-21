@@ -1,14 +1,29 @@
-# Hi there, I'm Lalita Bhoi 👋
+<div align="center">
+  
+  # Hi there, I'm Lalita Bhoi 👋
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=lalitabhoi-21&color=brightgreen&style=flat-square" alt="Profile Views" />
-</p>
+  <p align="center">
+    <a href="https://linkedin.com/in/lalita-bhoi-baa484421">
+      <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://lalitabhoi-21.github.io/lalita-portfolio/">
+      <img src="https://img.shields.io/badge/PORTFOLIO-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://github.com/lalitabhoi-21">
+      <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
+
+  <p align="left">
+    <img src="https://komarev.com/ghpvc/?username=lalitabhoi-21&color=brightgreen&style=flat-square" alt="Profile Views" />
+  </p>
+</div>
 
 ### 🚀 About Me
 * 🎓 Currently pursuing **Master of Computer Applications (MCA)**.
-* 💻 Passionate **Full-Stack & Software Developer** working with MERN Stack, Python, and Cloud technologies.
-* 🛠️ Active in building web applications, machine learning projects, and API integrations.
-* 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/lalita-bhoi-baa484421)**
+* 💻 Passionate **Full-Stack & Software Developer** focused on building clean, efficient, and scalable web applications.
+* 🛠️ Active in developing modern web interfaces, machine learning solutions, and innovative software products.
+* 💡 Always eager to learn new technologies and solve real-world problems through code.
 
 ---
 
@@ -25,19 +40,17 @@
 
 **Programming & Backend:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-**Databases & Cloud:**  
+**Databases:**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Tools & DevOps:**  
+**Tools:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
@@ -51,6 +64,5 @@
 ---
 
 ### 🌟 Featured Projects
-* 🌾 **Agro-Smart Portal:** ML-based crop recommendation system built using Python, Flask, and scikit-learn.
-* 📰 **Dainik Shivjagar (दैनिक शिवजागर):** E-paper platform featuring PDF extraction, Gemini API integration, and dynamic layout editing.
-* 💳 **Expense & Bill Splitter:** MERN stack web app designed for shared bill splitting and expense management.
+* 🌾 **Agro-Smart Portal:** A machine learning crop recommendation system built using Python, Flask, and scikit-learn to provide data-driven agricultural guidance[cite: 4].
+* 🤖 **Career Guide AI:** An upcoming AI-powered career counseling and guidance platform designed to assist students and professionals in mapping their career paths *(In Progress)*.
